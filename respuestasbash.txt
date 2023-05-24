@@ -1,0 +1,15 @@
+1) pwd
+2) ls
+3) stat main.sh
+4) ls -sh
+5) ls -sh > main.sh
+6) ls -l main.sh
+7) mkdir ejercicio1
+8) cd ejercicio1
+9) cat > punto8
+10) ps -e
+11) ps -e > punto8
+12) cat > mis_archivos.txt
+13) pwd
+14) ls /home/runner/empujar/ejercicio1
+15) ls /homer/runner/empujar/ejercicio1 > mis_archivos.txt
